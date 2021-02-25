@@ -106,7 +106,7 @@ pip3 install requests bs4 -y
 apt-get install git -y
 pkg install git python python2 unzip nano -y
 pip install requestes -y
-get update -y
+apt-get update -y
 apt-get install python -y
 apt-get install python -y
 apt-get install git -y
